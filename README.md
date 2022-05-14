@@ -7,3 +7,5 @@ This repository is for the 100 Days of Code: The Complete Python Pro Bootcamp fo
 :heavy_check_mark: Day 2 - Tip Calculator Project
 </br>
 :heavy_check_mark: Day 3 - Treasure Island Project
+</br>
+:heavy_check_mark: Day 4 - Rock Paper Scissors Project
